@@ -28,7 +28,7 @@ SHA-256 : `dcab2a5ad577a4b4a922633c6a33fae8147116ea044b1032d9c09af54123ccf5`
 
 Après le téléchargement :
 
-1. Ouvrez `Torganizer-Setup-0.1.0.exe` et suivez les étapes affichées par
+1. double cliquer sur le fichier téléchargé (` Torganizer-Setup-0.1.0.exe` ) et suivez les étapes affichées par
    l'installateur.
 2. Lancez Torganizer depuis le menu Démarrer ou depuis le raccourci créé par
    l'installation, s'il y en a un.
