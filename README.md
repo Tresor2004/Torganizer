@@ -30,11 +30,9 @@ Ou ouvrez le [fichier de l'installateur sur GitHub](https://github.com/Tresor200
 
 Après le téléchargement :
 
-1. Ouvrez `Torganizer-Setup-0.1.0.exe` et suivez les étapes affichées par
+1. double cliquer sur le fichier téléchargé (` Torganizer-Setup-0.1.0.exe` ) et suivez les étapes affichées par
    l'installateur.
-2. Ouvrez le fichier téléchargé et suivez les étapes affichées par
-   l'installateur.
-3. Lancez Torganizer depuis le menu Démarrer ou depuis le raccourci créé par
+2. Lancez Torganizer depuis le menu Démarrer ou depuis le raccourci créé par
    l'installation, s'il y en a un.
 
 L'installateur fourni n'est pas signé numériquement. Téléchargez-le uniquement
