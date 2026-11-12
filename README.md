@@ -22,19 +22,15 @@ de repérer des doublons et de créer des archives ZIP.
 - Choisir la langue de l'interface (français, anglais ou kirundi) et son thème.
 
 ## Installation sous Windows
-Téléchargez directement l'installateur Windows :
+Téléchargez l'installateur Windows depuis la [publication v0.1.0](https://github.com/Tresor2004/Torganizer/releases/download/V.0.1.0/Torganizer-Setup-0.1.0.exe).
 
-**[Télécharger Torganizer pour Windows](https://github.com/Tresor2004/Torganizer/raw/refs/heads/main/Torganizer-Setup-0.1.0.exe)**
-
-Ou ouvrez le [fichier de l'installateur sur GitHub](https://github.com/Tresor2004/Torganizer/blob/main/Torganizer-Setup-0.1.0.exe), puis cliquez sur **Download raw file**.
+SHA-256 : `dcab2a5ad577a4b4a922633c6a33fae8147116ea044b1032d9c09af54123ccf5`
 
 Après le téléchargement :
 
 1. Ouvrez `Torganizer-Setup-0.1.0.exe` et suivez les étapes affichées par
    l'installateur.
-2. Ouvrez le fichier téléchargé et suivez les étapes affichées par
-   l'installateur.
-3. Lancez Torganizer depuis le menu Démarrer ou depuis le raccourci créé par
+2. Lancez Torganizer depuis le menu Démarrer ou depuis le raccourci créé par
    l'installation, s'il y en a un.
 
 L'installateur fourni n'est pas signé numériquement. Téléchargez-le uniquement
